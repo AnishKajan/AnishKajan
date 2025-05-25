@@ -2,25 +2,25 @@
 
 🎓 **Electrical & Computer Engineering** @ The Ohio State University, Minor in Information Security  
 💼 **Full Stack SWE Intern** @ Accion Labs | Prev SWE @ FactualData, DataVerify  
-🧠 Passionate about full-stack development, cloud engineering, and AI/ML solutions    
+🧠 Passionate about Software Engineering (full-stack development, cloud, and AI/ML solutions) and  Cybersecurity  
 📍 Columbus, OH | US Citizen
 
 ---
-## 🧠 Programming Languages
+## Programming Languages
 
 <img src='https://img.shields.io/badge/C- -A8B9CC?style=flat-square&logo=c&logoColor=white'/> <img src='https://img.shields.io/badge/C++- -00599C?style=flat-square&logo=cplusplus&logoColor=white'/> <img src='https://img.shields.io/badge/Java- -007396?style=flat-square&logo=java&logoColor=white'/> <img src='https://img.shields.io/badge/Python- -3776AB?style=flat-square&logo=python&logoColor=white'/> <img src='https://img.shields.io/badge/JavaScript- -F7DF1E?style=flat-square&logo=javascript&logoColor=white'/> <img src='https://img.shields.io/badge/TypeScript- -3178C6?style=flat-square&logo=typescript&logoColor=white'/><br>
 <img src='https://img.shields.io/badge/HTML5- -E34F26?style=flat-square&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3- -1572B6?style=flat-square&logo=css3&logoColor=white'/> <img src='https://img.shields.io/badge/Bash- -4EAA25?style=flat-square&logo=gnubash&logoColor=white'/> <img src='https://img.shields.io/badge/SQL- -4479A1?style=flat-square&logo=mysql&logoColor=white'/> <img src='https://img.shields.io/badge/MATLAB- -E16737?style=flat-square&logo=mathworks&logoColor=white'/> <img src='https://img.shields.io/badge/Assembly- -555555?style=flat-square&logo=assemblyscript&logoColor=white'/>
 
 ---
 
-## ☁️ Databases & Cloud Platforms
+## Databases & Cloud Platforms
 
 <img src='https://img.shields.io/badge/PostgreSQL- -4169E1?style=flat-square&logo=postgresql&logoColor=white'/> <img src='https://img.shields.io/badge/MongoDB- -47A248?style=flat-square&logo=mongodb&logoColor=white'/> <img src='https://img.shields.io/badge/AWS- -FF9900?style=flat-square&logo=amazonaws&logoColor=white'/> <img src='https://img.shields.io/badge/Microsoft%20Azure- -0078D4?style=flat-square&logo=microsoftazure&logoColor=white'/> <img src='https://img.shields.io/badge/MongoDB%20Atlas- -47A248?style=flat-square&logo=mongodb&logoColor=white'/> <img src='https://img.shields.io/badge/NVIDIA%20NGC- -76B900?style=flat-square&logo=nvidia&logoColor=white'/><br>
 <img src='https://img.shields.io/badge/Salesforce%20Education%20Cloud- -00A1E0?style=flat-square&logo=salesforce&logoColor=white'/>
 
 ---
 
-## 🔧 IDEs, Frameworks & Software Tools
+## IDEs, Frameworks & Software Tools
 
 <img src='https://img.shields.io/badge/Spring%20Boot- -6DB33F?style=flat-square&logo=spring&logoColor=white'/> <img src='https://img.shields.io/badge/Express.js- -000000?style=flat-square&logo=express&logoColor=white'/> <img src='https://img.shields.io/badge/Node.js- -339933?style=flat-square&logo=nodedotjs&logoColor=white'/> <img src='https://img.shields.io/badge/Flask- -000000?style=flat-square&logo=flask&logoColor=white'/> <img src='https://img.shields.io/badge/Jira- -0052CC?style=flat-square&logo=jira&logoColor=white'/> <img src='https://img.shields.io/badge/Confluence- -172B4D?style=flat-square&logo=confluence&logoColor=white'/><br>
 <img src='https://img.shields.io/badge/QTest- -5D8AA8?style=flat-square&logo=tricentis&logoColor=white'/> <img src='https://img.shields.io/badge/Figma- -F24E1E?style=flat-square&logo=figma&logoColor=white'/> <img src='https://img.shields.io/badge/VS%20Code- -007ACC?style=flat-square&logo=visualstudiocode&logoColor=white'/> <img src='https://img.shields.io/badge/Eclipse- -2C2255?style=flat-square&logo=eclipseide&logoColor=white'/> <img src='https://img.shields.io/badge/Quartus%20Prime- -0067B8?style=flat-square&logo=intel&logoColor=white'/> <img src='https://img.shields.io/badge/Code%20Composer%20Studio- -555555?style=flat-square&logo=texasinstruments&logoColor=white'/><br>
@@ -37,7 +37,7 @@
 
 ## 🏆 Certifications and Simulations
 A selection of certifications and job simulations I’ve completed from leading organizations across cloud, software engineering, AI, and cybersecurity:
-### 🧠 Generative AI, LLMs & Cloud
+### Generative AI, LLMs & Cloud
 
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-RAG%20Agents%20with%20LLMs-green?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com)
 [![AWS](https://img.shields.io/badge/AWS-Solutions%20Architecture-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.aws.amazon.com)
@@ -46,7 +46,7 @@ A selection of certifications and job simulations I’ve completed from leading 
 
 ---
 
-### 🔐 Cybersecurity
+### Cybersecurity
 
 [![AIG](https://img.shields.io/badge/AIG-Shields%20Up%20Cybersecurity-blue?style=for-the-badge&logo=aig&logoColor=white)](https://www.aig.com)
 [![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity-red?style=for-the-badge&logo=mastercard&logoColor=white)](https://www.mastercard.com)
@@ -55,7 +55,7 @@ A selection of certifications and job simulations I’ve completed from leading 
 
 ---
 
-### 👨‍💻 Software Engineering Simulations
+### Software Engineering Simulations
 
 [![Accenture](https://img.shields.io/badge/Accenture-Software%20Engineering-purple?style=for-the-badge&logo=accenture&logoColor=white)](https://www.accenture.com)
 [![JPMC](https://img.shields.io/badge/JP%20Morgan-SWE%20Simulation-blue?style=for-the-badge&logo=jpmorgan&logoColor=white)](https://careers.jpmorgan.com)
@@ -66,7 +66,7 @@ A selection of certifications and job simulations I’ve completed from leading 
 
 ---
 
-### ⚙️ DevOps, Docker & ITSM
+### DevOps, Docker & ITSM
 
 [![Docker](https://img.shields.io/badge/Docker-Foundations%20Cert-lightblue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Atlassian](https://img.shields.io/badge/Atlassian-ITSM%20Certificate-blue?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com)
@@ -75,7 +75,7 @@ A selection of certifications and job simulations I’ve completed from leading 
 ---
 
 ## 📬 Get in Touch
-- ✉️ anishkajan2005@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/anish-kajan/)  
+[![Email](https://img.shields.io/badge/Email-anishkajan2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishkajan2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anish--kajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-kajan/)
 
 *Last updated: May 25, 2025*
