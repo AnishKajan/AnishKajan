@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anish Kajan
 
-🎓 **Electrical & Computer Engineering** @ The Ohio State University, Minor in Information Security  
-💼 **Full Stack SWE Intern** @ Accion Labs | Prev SWE @ FactualData, DataVerify  
+🎓 **Electrical & Computer Engineering, Minor in Information Security** @ The Ohio State University
+💼 **Current Position: Full Stack Developer Intern** @ Accion Labs | Prev SWE @ FactualData, DataVerify  
 🧠 Passionate about Software Engineering (full-stack development, cloud, and AI/ML solutions) and  Cybersecurity  
 📍 Columbus, OH | US Citizen
 
