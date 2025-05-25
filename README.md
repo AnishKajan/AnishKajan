@@ -54,6 +54,42 @@
 <img src='https://img.shields.io/badge/JUnit-%20-25A162?style=flat-square&logo=junit5&logoColor=white'/> <img src='https://img.shields.io/badge/Mocha-%20-8D6748?style=flat-square&logo=mocha&logoColor=white'/> <img src='https://img.shields.io/badge/Chai-%20-A30701?style=flat-square&logo=chai&logoColor=white'/> <img src='https://img.shields.io/badge/Figma-%20-F24E1E?style=flat-square&logo=figma&logoColor=white'/>
 
 <img src='https://img.shields.io/badge/Confluence-%20-172B4D?style=flat-square&logo=confluence&logoColor=white'/> <img src='https://img.shields.io/badge/VS Code-%20-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white'/> <img src='https://img.shields.io/badge/Eclipse-%20-2C2255?style=flat-square&logo=eclipseide&logoColor=white'/>
+
+
+<img src='https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python&logoColor=white'/> <img src='https://img.shields.io/badge/Java-%20-007396?style=flat-square&logo=java&logoColor=white'/> <img src='https://img.shields.io/badge/C-%20-A8B9CC?style=flat-square&logo=c&logoColor=white'/> <img src='https://img.shields.io/badge/C++-%20-00599C?style=flat-square&logo=cplusplus&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/JavaScript-%20-F7DF1E?style=flat-square&logo=javascript&logoColor=white'/> <img src='https://img.shields.io/badge/TypeScript-%20-3178C6?style=flat-square&logo=typescript&logoColor=white'/> <img src='https://img.shields.io/badge/HTML5-%20-E34F26?style=flat-square&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3-%20-1572B6?style=flat-square&logo=css3&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Bash-%20-4EAA25?style=flat-square&logo=gnubash&logoColor=white'/> <img src='https://img.shields.io/badge/SQL-%20-4479A1?style=flat-square&logo=mysql&logoColor=white'/> <img src='https://img.shields.io/badge/SQLite-%20-003B57?style=flat-square&logo=sqlite&logoColor=white'/> <img src='https://img.shields.io/badge/Spring%20Boot-%20-6DB33F?style=flat-square&logo=spring&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Flask-%20-000000?style=flat-square&logo=flask&logoColor=white'/> <img src='https://img.shields.io/badge/Express-%20-000000?style=flat-square&logo=express&logoColor=white'/> <img src='https://img.shields.io/badge/React-%20-61DAFB?style=flat-square&logo=react&logoColor=white'/> <img src='https://img.shields.io/badge/Node.js-%20-339933?style=flat-square&logo=nodedotjs&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Tailwind%20CSS-%20-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white'/> <img src='https://img.shields.io/badge/Mocha-%20-8D6748?style=flat-square&logo=mocha&logoColor=white'/> <img src='https://img.shields.io/badge/Chai-%20-A30701?style=flat-square&logo=chai&logoColor=white'/> <img src='https://img.shields.io/badge/JUnit-%20-25A162?style=flat-square&logo=junit5&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/PyTorch-%20-EE4C2C?style=flat-square&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/LangChain-%20-00B3FF?style=flat-square&logo=langchain&logoColor=white'/> <img src='https://img.shields.io/badge/Hugging%20Face-%20-FFCC00?style=flat-square&logo=huggingface&logoColor=white'/> <img src='https://img.shields.io/badge/Streamlit-%20-FF4B4B?style=flat-square&logo=streamlit&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Struts%202-%20-F72828?style=flat-square&logo=apache&logoColor=white'/> <img src='https://img.shields.io/badge/Apex-%20-1798C1?style=flat-square&logo=salesforce&logoColor=white'/> <img src='https://img.shields.io/badge/MATLAB-%20-E16737?style=flat-square&logo=mathworks&logoColor=white'/> <img src='https://img.shields.io/badge/AWS-%20-FF9900?style=flat-square&logo=amazonaws&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Microsoft%20Azure-%20-0078D4?style=flat-square&logo=microsoftazure&logoColor=white'/> <img src='https://img.shields.io/badge/MongoDB%20Atlas-%20-47A248?style=flat-square&logo=mongodb&logoColor=white'/> <img src='https://img.shields.io/badge/Docker-%20-2496ED?style=flat-square&logo=docker&logoColor=white'/> <img src='https://img.shields.io/badge/Kubernetes-%20-326CE5?style=flat-square&logo=kubernetes&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Git-%20-F05032?style=flat-square&logo=git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-%20-181717?style=flat-square&logo=github&logoColor=white'/> <img src='https://img.shields.io/badge/GitLab%20CI/CD-%20-FC6D26?style=flat-square&logo=gitlab&logoColor=white'/> <img src='https://img.shields.io/badge/OAuth-%20-E94E32?style=flat-square&logo=oauth&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Salesforce%20DX-%20-00A1E0?style=flat-square&logo=salesforce&logoColor=white'/> <img src='https://img.shields.io/badge/NVIDIA%20NGC-%20-76B900?style=flat-square&logo=nvidia&logoColor=white'/> <img src='https://img.shields.io/badge/Ollama-%20-000000?style=flat-square&logo=ollama&logoColor=white'/> <img src='https://img.shields.io/badge/PostgreSQL-%20-4169E1?style=flat-square&logo=postgresql&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/MongoDB-%20-47A248?style=flat-square&logo=mongodb&logoColor=white'/> <img src='https://img.shields.io/badge/Jira-%20-0052CC?style=flat-square&logo=jira&logoColor=white'/> <img src='https://img.shields.io/badge/Confluence-%20-172B4D?style=flat-square&logo=confluence&logoColor=white'/> <img src='https://img.shields.io/badge/QTest-%20-5D8AA8?style=flat-square&logo=tricentis&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Figma-%20-F24E1E?style=flat-square&logo=figma&logoColor=white'/> <img src='https://img.shields.io/badge/VS%20Code-%20-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white'/> <img src='https://img.shields.io/badge/Eclipse-%20-2C2255?style=flat-square&logo=eclipseide&logoColor=white'/> <img src='https://img.shields.io/badge/Quartus%20Prime-%20-0067B8?style=flat-square&logo=intel&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Code%20Composer%20Studio-%20-555555?style=flat-square&logo=texasinstruments&logoColor=white'/> <img src='https://img.shields.io/badge/Postman-%20-FF6C37?style=flat-square&logo=postman&logoColor=white'/> <img src='https://img.shields.io/badge/GraphQL-%20-E10098?style=flat-square&logo=graphql&logoColor=white'/> <img src='https://img.shields.io/badge/WebSocket-%20-6DB33F?style=flat-square&logo=websocket&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/HTTP-%20-005C84?style=flat-square&logo=w3c&logoColor=white'/> <img src='https://img.shields.io/badge/ERD-%20-F8D347?style=flat-square&logo=mysql&logoColor=white'/> <img src='https://img.shields.io/badge/UML-%20-6C63FF?style=flat-square&logo=uml&logoColor=white'/> <img src='https://img.shields.io/badge/Data%20Structures-%20-008080?style=flat-square&logo=openbadges&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/OOP-%20-FBBD08?style=flat-square&logo=oracle&logoColor=white'/> <img src='https://img.shields.io/badge/CI/CD-%20-4F4F4F?style=flat-square&logo=circleci&logoColor=white'/> <img src='https://img.shields.io/badge/Containerization-%20-0DB7ED?style=flat-square&logo=docker&logoColor=white'/> <img src='https://img.shields.io/badge/Software%20Development%20Life%20Cycle%20(SDLC)-%20-333333?style=flat-square&logo=jira&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Agile%20Methodologies-%20-FF6F00?style=flat-square&logo=scrumalliance&logoColor=white'/> <img src='https://img.shields.io/badge/REST%20APIs-%20-1E90FF?style=flat-square&logo=postman&logoColor=white'/> <img src='https://img.shields.io/badge/Multimodal%20Prompting-%20-A020F0?style=flat-square&logo=huggingface&logoColor=white'/> <img src='https://img.shields.io/badge/Prompt%20Engineering-%20-FFDD55?style=flat-square&logo=openai&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Leadership-%20-006699?style=flat-square&logo=linkedin&logoColor=white'/> <img src='https://img.shields.io/badge/Cloud%20Applications-%20-6495ED?style=flat-square&logo=cloudflare&logoColor=white'/>
+
 **Languages**: Java, Python, C/C++, JavaScript, TypeScript, SQL, Bash, MATLAB, HTML/CSS  
 **Frameworks & Libraries**: Spring Boot, Flask, Express.js, Tailwind CSS, Mocha/Chai, JUnit, PyTorch, Streamlit  
 **Cloud & DevOps**: AWS (S3, EC2), Microsoft Azure, Docker, Docker Compose, Git, GitHub, GitLab CI/CD  
@@ -66,44 +102,6 @@
 ![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnishKajan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKajan&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AnishKajan&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🧠 Featured Projects
-
-### 🏁 [Formula1-Predictor-App](https://github.com/AnishKajan/Formula1-Predictor-App) – *Spring 2025*
-Built a PyTorch-powered ML model to predict race results, podium finishes, and tire strategies using F1 data.  
-**Tech**: Python, Pandas, PyTorch, Joblib, Streamlit
-
----
-
-### 🦇 [Batcomputer](https://github.com/AnishKajan/Batcomputer) – *Summer 2025*
-A Batman-themed voice assistant using Ollama’s LLM, Flask, and vanilla JS. Recognizes 10+ phrases and responds in-character.  
-**Tech**: JavaScript, Flask, HTML, Ollama
-
----
-
-### 🤖 [J.A.R.V.I.S-AI](https://github.com/AnishKajan/J.A.R.V.I.S-AI)
-An Iron Man–inspired assistant using Ollama LLMs with voice/text I/O.  
-**Tech**: Python, Flask, JavaScript, Bootstrap
-
----
-
-### ☁️ [Secure File Upload](https://github.com/AnishKajan/Secure-File-Upload-Platform-with-AWS-S3-Docker-Integration) – *Summer 2025*
-Full-stack platform built with Spring Boot + AWS S3 for uploading, listing, and deleting files.  
-**Tech**: Java, Spring Boot, Docker, AWS S3, HTML/CSS
-
----
-
-### 📊 [Student Engagement Dashboard (Salesforce)](https://github.com/AnishKajan/Student-Engagement-Dashboard-with-Automated-Deployments---Salesforce-Education-Cloud)
-Built on Salesforce Education Cloud to track student participation and automate deployments.  
-**Tech**: Salesforce Apex, Education Cloud, CI/CD
-
----
-
-### 🧾 [CloudTaskBoard - Azure SQL Java REST API](https://github.com/AnishKajan/CloudTaskBoard-Secure-Azure-Integrated-Java-REST-API-for-Task-Management)
-RESTful task manager using Spark Java + Azure SQL + Maven, integrated with Docker for containerized development.  
-**Tech**: Java, Azure SQL, Maven, Docker
 
 ---
 
