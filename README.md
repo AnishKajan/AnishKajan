@@ -9,6 +9,26 @@
 
 ## 🧰 Skills & Technologies
 
+<img src='https://img.shields.io/badge/Python-%20-3776AB?style=flat-square&logo=python&logoColor=white'/> <img src='https://img.shields.io/badge/Java-%20-007396?style=flat-square&logo=java&logoColor=white'/> <img src='https://img.shields.io/badge/JavaScript-%20-F7DF1E?style=flat-square&logo=javascript&logoColor=white'/> <img src='https://img.shields.io/badge/TypeScript-%20-3178C6?style=flat-square&logo=typescript&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/HTML5-%20-E34F26?style=flat-square&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3-%20-1572B6?style=flat-square&logo=css3&logoColor=white'/> <img src='https://img.shields.io/badge/C-%20-A8B9CC?style=flat-square&logo=c&logoColor=white'/> <img src='https://img.shields.io/badge/C++-%20-00599C?style=flat-square&logo=c++&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/React-%20-61DAFB?style=flat-square&logo=react&logoColor=white'/> <img src='https://img.shields.io/badge/Node.js-%20-339933?style=flat-square&logo=node.js&logoColor=white'/> <img src='https://img.shields.io/badge/Express-%20-000000?style=flat-square&logo=express&logoColor=white'/> <img src='https://img.shields.io/badge/Spring-%20-6DB33F?style=flat-square&logo=spring&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Flask-%20-000000?style=flat-square&logo=flask&logoColor=white'/> <img src='https://img.shields.io/badge/MongoDB-%20-47A248?style=flat-square&logo=mongodb&logoColor=white'/> <img src='https://img.shields.io/badge/PostgreSQL-%20-4169E1?style=flat-square&logo=postgresql&logoColor=white'/> <img src='https://img.shields.io/badge/Docker-%20-2496ED?style=flat-square&logo=docker&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Kubernetes-%20-326CE5?style=flat-square&logo=kubernetes&logoColor=white'/> <img src='https://img.shields.io/badge/Git-%20-F05032?style=flat-square&logo=git&logoColor=white'/> <img src='https://img.shields.io/badge/GitHub-%20-181717?style=flat-square&logo=github&logoColor=white'/> <img src='https://img.shields.io/badge/AWS-%20-FF9900?style=flat-square&logo=aws&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Azure-%20-0078D4?style=flat-square&logo=azure&logoColor=white'/> <img src='https://img.shields.io/badge/Salesforce-%20-00A1E0?style=flat-square&logo=salesforce&logoColor=white'/> <img src='https://img.shields.io/badge/Figma-%20-F24E1E?style=flat-square&logo=figma&logoColor=white'/> <img src='https://img.shields.io/badge/Jira-%20-0052CC?style=flat-square&logo=jira&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Confluence-%20-172B4D?style=flat-square&logo=confluence&logoColor=white'/> <img src='https://img.shields.io/badge/VS Code-%20-007ACC?style=flat-square&logo=vscode&logoColor=white'/> <img src='https://img.shields.io/badge/Eclipse IDE-%20-2C2255?style=flat-square&logo=eclipseide&logoColor=white'/> <img src='https://img.shields.io/badge/MATLAB-%20-E16737?style=flat-square&logo=matlab&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/NumPy-%20-013243?style=flat-square&logo=numpy&logoColor=white'/> <img src='https://img.shields.io/badge/Pandas-%20-150458?style=flat-square&logo=pandas&logoColor=white'/> <img src='https://img.shields.io/badge/PyTorch-%20-EE4C2C?style=flat-square&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/LangChain-%20-00B3FF?style=flat-square&logo=langchain&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Hugging Face-%20-FFCC00?style=flat-square&logo=huggingface&logoColor=white'/> <img src='https://img.shields.io/badge/GraphQL-%20-E10098?style=flat-square&logo=graphql&logoColor=white'/> <img src='https://img.shields.io/badge/OAuth-%20-E94E32?style=flat-square&logo=oauth&logoColor=white'/> <img src='https://img.shields.io/badge/Postman-%20-FF6C37?style=flat-square&logo=postman&logoColor=white'/>
+
+<img src='https://img.shields.io/badge/Vite-%20-646CFF?style=flat-square&logo=vite&logoColor=white'/> <img src='https://img.shields.io/badge/Vue.js-%20-4FC08D?style=flat-square&logo=vue.js&logoColor=white'/>
+
 ![C](https://img.shields.io/badge/-C-gray?style=flat-square) ![C++](https://img.shields.io/badge/-C++-gray?style=flat-square) ![Java](https://img.shields.io/badge/-Java-gray?style=flat-square) ![Python](https://img.shields.io/badge/-Python-gray?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-gray?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-gray?style=flat-square) ![Bash](https://img.shields.io/badge/-Bash-gray?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-gray?style=flat-square)
 ![SQLite](https://img.shields.io/badge/-SQLite-gray?style=flat-square) ![Struts 2](https://img.shields.io/badge/-Struts%202-gray?style=flat-square) ![Apex](https://img.shields.io/badge/-Apex-gray?style=flat-square) ![SOQL](https://img.shields.io/badge/-SOQL-gray?style=flat-square) ![MATLAB](https://img.shields.io/badge/-MATLAB-gray?style=flat-square)
