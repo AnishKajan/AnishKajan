@@ -31,11 +31,7 @@
 
 ## 🛡️ Cybersecurity Tools
 
-<img src='https://img.shields.io/badge/Burp%20Suite- -FF6F00?style=flat-square&logo=burpsuite&logoColor=white'/>
-<img src='https://img.shields.io/badge/Wireshark- -1679A7?style=flat-square&logo=wireshark&logoColor=white'/>
-<img src='https://img.shields.io/badge/Splunk- -000000?style=flat-square&logo=splunk&logoColor=white'/>
-<img src='https://img.shields.io/badge/Nmap- -008080?style=flat-square&logo=gnome-terminal&logoColor=white'/>
-<img src='https://img.shields.io/badge/Kali%20Linux- -268BEE?style=flat-square&logo=kalilinux&logoColor=white'/>
+<img src='https://img.shields.io/badge/Burp%20Suite- -FF6F00?style=flat-square&logo=burpsuite&logoColor=white'/> <img src='https://img.shields.io/badge/Wireshark- -1679A7?style=flat-square&logo=wireshark&logoColor=white'/> <img src='https://img.shields.io/badge/Splunk- -000000?style=flat-square&logo=splunk&logoColor=white'/> <img src='https://img.shields.io/badge/Nmap- -008080?style=flat-square&logo=gnome-terminal&logoColor=white'/> <img src='https://img.shields.io/badge/Kali%20Linux- -268BEE?style=flat-square&logo=kalilinux&logoColor=white'/>
 
 ## 📊 GitHub Stats
 
