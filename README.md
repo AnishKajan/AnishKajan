@@ -49,6 +49,8 @@ A selection of certifications and job simulations I’ve completed from leading 
 [![AWS](https://img.shields.io/badge/AWS-Solutions%20Architecture-orange?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.aws.amazon.com)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Intro%20to%20Generative%20AI-blue?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Microsoft](https://img.shields.io/badge/Microsoft%20&%20LinkedIn-Generative%20AI%20Essentials-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com)
+[![Verizon](https://img.shields.io/badge/Verizon-Cloud%20Platform%20Job%20Simulation-DA1A32?style=for-the-badge&logo=verizon&logoColor=white)]()
+[![Datacom](https://img.shields.io/badge/Datacom-Intro%20to%20Cloud%20Simulation-001B5F?style=for-the-badge&logo=data&logoColor=white)]()
 
 ---
 
@@ -58,6 +60,10 @@ A selection of certifications and job simulations I’ve completed from leading 
 [![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity-red?style=for-the-badge&logo=mastercard&logoColor=white)](https://www.mastercard.com)
 [![PwC](https://img.shields.io/badge/PwC-Cybersecurity%20Consulting-orange?style=for-the-badge&logo=pwc&logoColor=white)](https://www.pwc.com)
 [![Clifford Chance](https://img.shields.io/badge/Clifford%20Chance-Cybersecurity%20Job%20Simulation-darkblue?style=for-the-badge)](https://www.cliffordchance.com)
+[![Microsoft](https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Cybersecurity%20Essentials-2A5ADA?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com)
+[![Tata](https://img.shields.io/badge/Tata%20Group-Cybersecurity%20Analyst%20Simulation-1C9CD7?style=for-the-badge&logo=tata&logoColor=white)](https://www.linkedin.com)
+[![Deloitte](https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-000000?style=for-the-badge&logo=deloitte&logoColor=white)](https://www.linkedin.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Security%20%26%20Auth-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.linkedin.com)
 
 ---
 
