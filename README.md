@@ -35,9 +35,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnishKajan&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKajan&layout=compact&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=AnishKajan&theme=radical)
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnishKajan&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKajan&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=AnishKajan&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
