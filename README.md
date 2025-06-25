@@ -43,9 +43,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKajan&layout=compact&theme=radical" alt="Top Languages" />
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=AnishKajan&theme=radical" alt="GitHub Streak" />
-    </td>
   </tr>
 </table>
 
