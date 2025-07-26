@@ -78,21 +78,26 @@
 
 ## 🏆 Key Certifications
 
-### IBM - Getting Started with Threat Intelligence and Hunting
-**Issued:** June 2025  
-**Skills:** Cyber Threat Hunting (CTH) • Cybersecurity
+![NVIDIA](https://img.shields.io/badge/NVIDIA-RAG%20AGENTS%20WITH%20LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-THREAT%20INTELLIGENCE%20%26%20HUNTING-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Splunk](https://img.shields.io/badge/SPLUNK-INTRO%20TO%20SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![JPMorgan](https://img.shields.io/badge/JPMORGAN%20CHASE-SOFTWARE%20ENGINEERING%20SIMULATION-0066CC?style=for-the-badge&logo=jpmorgan&logoColor=white)
 
-### Splunk - Intro to Splunk
-**Issued:** June 2025  
-**Skills:** Splunk
+**NVIDIA - Building RAG Agents with LLMs**  
+*Issued:* May 2025  
+*Skills:* Large Language Models (LLM) • Hugging Face Products • Transformers • Generative AI • Vector Databases • Python • Jupyter • Retrieval-Augmented Generation (RAG) • LangChain
 
-### NVIDIA - Building RAG Agents with LLMs
-**Issued:** May 2025  
-**Skills:** Large Language Models (LLM) • Hugging Face Products • Transformers • Generative AI • Vector Databases • Python • Jupyter • Retrieval-Augmented Generation (RAG) • LangChain
+**IBM - Getting Started with Threat Intelligence and Hunting**  
+*Issued:* June 2025  
+*Skills:* Cyber Threat Hunting (CTH) • Cybersecurity
 
-### JPMorgan Chase & Co - Software Engineering Job Simulation
-**Issued:** May 2025  
-**Skills:** REST APIs • Spring Boot • TypeScript • Continuous Integration and Continuous Delivery (CI/CD)
+**Splunk - Intro to Splunk**  
+*Issued:* June 2025  
+*Skills:* Splunk
+
+**JPMorgan Chase & Co - Software Engineering Job Simulation**  
+*Issued:* May 2025  
+*Skills:* REST APIs • Spring Boot • TypeScript • Continuous Integration and Continuous Delivery (CI/CD)
 
 ---
 
