@@ -8,11 +8,17 @@
 
 ---
 
+## 📊 GitHub Statistics
+
 <table>
-  <td>
+  <tr>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=AnishKajan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishKajan&layout=compact&theme=radical" alt="Most Used Languages" />
-  </td>
+    </td>
+  </tr>
 </table>
 
 ---
