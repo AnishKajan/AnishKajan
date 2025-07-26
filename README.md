@@ -76,12 +76,12 @@
 
 ---
 
-## 🏆 Key Certifications
+## Key Certifications
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RAG%20AGENTS%20WITH%20LLMs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-THREAT%20INTELLIGENCE%20%26%20HUNTING-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Splunk](https://img.shields.io/badge/SPLUNK-INTRO%20TO%20SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![JPMorgan](https://img.shields.io/badge/JPMORGAN%20CHASE-SOFTWARE%20ENGINEERING%20SIMULATION-0066CC?style=for-the-badge&logo=jpmorgan&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-THREAT%20INTELLIGENCE%20%26%20HUNTING-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![Splunk](https://img.shields.io/badge/SPLUNK-INTRO%20TO%20SPLUNK-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
+![JPMorgan](https://img.shields.io/badge/JPMORGAN%20CHASE-SOFTWARE%20ENGINEERING%20SIMULATION-8B4513?style=for-the-badge&logo=jpmorgan&logoColor=white)
 
 **NVIDIA - Building RAG Agents with LLMs**  
 *Issued:* May 2025  
@@ -102,5 +102,11 @@
 ---
 
 ## 📬 Get in Touch
-[![Email](https://img.shields.io/badge/Email-anishkajan2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishkajan2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anish--kajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-kajan/)
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+</p>
+
+**Email:** anishkajan2005@gmail.com  
+**LinkedIn:** [linkedin.com/in/anish-kajan](https://linkedin.com/in/anish-kajan/)
