@@ -83,27 +83,11 @@
 ![Splunk](https://img.shields.io/badge/SPLUNK-INTRO%20TO%20SPLUNK-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
 ![JPMorgan](https://img.shields.io/badge/JPMORGAN%20CHASE-SOFTWARE%20ENGINEERING%20SIMULATION-8B4513?style=for-the-badge&logo=jpmorgan&logoColor=white)
 
-**NVIDIA - Building RAG Agents with LLMs**  
-*Issued:* May 2025  
-*Skills:* Large Language Models (LLM) • Hugging Face Products • Transformers • Generative AI • Vector Databases • Python • Jupyter • Retrieval-Augmented Generation (RAG) • LangChain
-
-**IBM - Getting Started with Threat Intelligence and Hunting**  
-*Issued:* June 2025  
-*Skills:* Cyber Threat Hunting (CTH) • Cybersecurity
-
-**Splunk - Intro to Splunk**  
-*Issued:* June 2025  
-*Skills:* Splunk
-
-**JPMorgan Chase & Co - Software Engineering Job Simulation**  
-*Issued:* May 2025  
-*Skills:* REST APIs • Spring Boot • TypeScript • Continuous Integration and Continuous Delivery (CI/CD)
-
 ---
 
 ## 📬 Get in Touch
 
 <p>
-<a href="https://linkedin.com/in/anish-kajan/"><img src="https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="60" width="60"/></a>
-<a href="mailto:anishkajan2005@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="60" width="60"/></a>
+<a href="https://linkedin.com/in/anish-kajan/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="60" width="60"/></a>
+<a href="mailto:anishkajan2005@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="60"/></a>
 </p>
