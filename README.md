@@ -103,10 +103,5 @@
 
 ## 📬 Get in Touch
 
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"/>
-</p>
-
-**Email:** [anishkajan2005@gmail.com](mailto:anishkajan2005@gmail.com)  
-**LinkedIn:** [linkedin.com/in/anish-kajan](https://linkedin.com/in/anish-kajan/)
+[![Email](https://img.shields.io/badge/Email-anishkajan2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishkajan2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anish--kajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-kajan/)
