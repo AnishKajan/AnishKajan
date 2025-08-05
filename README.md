@@ -90,7 +90,7 @@
 ![IBM](https://img.shields.io/badge/IBM-THREAT%20INTELLIGENCE%20%26%20HUNTING-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
 ![Splunk](https://img.shields.io/badge/SPLUNK-INTRO%20TO%20SPLUNK-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
 ![JPMorgan](https://img.shields.io/badge/JPMORGAN%20CHASE-SOFTWARE%20ENGINEERING%20SIMULATION-8B4513?style=for-the-badge&logo=jpmorgan&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/MICROSOFT%20AZURE-AZURE%20FUNDAMENTALS%20%28AZ-900%29-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/MICROSOFT%20AZURE-AZURE%20FUNDAMENTALS%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 ---
