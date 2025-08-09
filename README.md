@@ -21,7 +21,7 @@
 
 ## Check Out My Portfolio
 
-[**➡️ Click here to visit my portfolio website**](https://www.anishkajan.com)
+[**➡️ Click here to visit my portfolio website**](https://anishkajan.com)
 
 ## Programming Languages
 
