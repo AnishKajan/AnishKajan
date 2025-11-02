@@ -100,16 +100,16 @@
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-<p align="center">
-  <a href="https://linkedin.com/in/anish-kajan/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="60" width="60"/>
+<p align="left">
+  <a href="https://linkedin.com/in/anish-kajan/" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" height="60"/>
   </a>
   <a href="mailto:anishkajan2005@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="60" height="60"/>
   </a>
-  <a href="https://app.hackthebox.com/profile/2806096">
-    <img src="https://www.hackthebox.com/images/HTB-logo-icon.png" alt="HackTheBox" height="60" width="60"/>
+  <a href="https://app.hackthebox.com/profile/2806096" target="_blank" rel="noopener">
+    <img src="assets/htb-logo.png" alt="HackTheBox" width="60" height="60"/>
   </a>
 </p>
