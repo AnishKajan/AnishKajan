@@ -110,6 +110,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="60" height="60"/>
   </a>
   <a href="https://app.hackthebox.com/profile/2806096" target="_blank" rel="noopener">
-    <img src="assets/htb-logo.png" alt="HackTheBox" width="60" height="60"/>
+    <img src="github-assets/hack-the-box-svgrepo-com.svg" alt="HackTheBox" width="60" height="60"/>
   </a>
 </p>
