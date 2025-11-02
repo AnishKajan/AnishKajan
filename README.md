@@ -79,6 +79,7 @@
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Atlas" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="50" height="50"/>
@@ -101,7 +102,14 @@
 
 ## 📬 Get in Touch
 
-<p>
-<a href="https://linkedin.com/in/anish-kajan/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="60" width="60"/></a>
-<a href="mailto:anishkajan2005@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="60"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/anish-kajan/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="60" width="60"/>
+  </a>
+  <a href="mailto:anishkajan2005@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="60" width="60"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile/2806096">
+    <img src="https://www.hackthebox.com/images/HTB-logo-icon.png" alt="HackTheBox" height="60" width="60"/>
+  </a>
 </p>
