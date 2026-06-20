@@ -2,7 +2,7 @@
 
 🎓 **Electrical & Computer Engineering, Minor in Information Security** @ The Ohio State University
 
-💼 **Current Position: Freenalnce Generative AI Contributor** @ Uber AI Solutions | Prev Full Stack @ Accion Labs, SWE @ FactualData, DataVerify  
+💼 **Current Position: Systems Engineer** @ Visa | Prev Full Stack @ Accion Labs, SWE @ FactualData, DataVerify  
 🧠 Passionate about Software Engineering (full-stack development, cloud, and AI/ML solutions) and Cybersecurity  
 📍 Columbus, OH | US Citizen
 
